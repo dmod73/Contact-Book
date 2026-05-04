@@ -1,0 +1,7 @@
+{
+	"csharp.debug.console": "externalTerminal",
+	"files.exclude": {
+		"**/bin": true,
+		"**/obj": true
+	}
+}
